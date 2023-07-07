@@ -1,0 +1,140 @@
+{
+    "feed": [
+        {
+            "id": 1,
+            "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit, accumsan justo nullam cras natoque sapien eget ac, faucibus nisl etiam morbi porta ridiculus. Penatibus molestie euismod mauris mi eu vitae venenatis volutpat dapibus eget sollicitudin blandit nibh",
+            "author": {
+                "id": 1,
+                "username": "f3r.dev",
+                "name": "Fer Alarcon",
+                "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+            },
+            "timestamp": "2023-07-07T10:00:00Z",
+            "likes": 10,
+            "comments": [
+                {
+                    "id": 1,
+                    "text": "Comentario 1",
+                    "author": {
+                        "id": 2,
+                        "name": "Mapache-paleador",
+                        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+                    },
+                    "timestamp": "2023-07-07T11:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "content": "Segundo hilo Lorem ipsum dolor sit amet consectetur adipiscing elit, accumsan justo nullam cras natoque sapien eget ac, faucibus nisl etiam morbi porta ridiculus. Penatibus molestie euismod mauris mi eu vitae venenatis volutpat dapibus eget sollicitudin ",
+            "author": {
+                "id": 1,
+                "username": "f3r.dev",
+                "name": "Fer Alarcon",
+                "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+            },
+            "timestamp": "2023-07-07T10:00:00Z",
+            "likes": 2,
+            "comments": [
+                {
+                    "id": 1,
+                    "text": "Comentario 1",
+                    "author": {
+                        "id": 2,
+                        "name": "Mapache-paleador",
+                        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+                    },
+                    "timestamp": "2023-07-07T11:00:00Z"
+                }
+            ]
+        }
+    ] ,
+     
+    "response": [
+        {
+            "id": 1,
+            "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit, accumsan justo nullam cras natoque sapien eget ac, faucibus nisl etiam morbi porta ridiculus. Penatibus molestie euismod mauris mi eu vitae venenatis volutpat dapibus eget sollicitudin blandit nibh",
+            "author": {
+                "id": 1,
+                "username": "naruto-uzu",
+                "name": "Fer Alarcon",
+                "avatar": "https://wallpapers.com/images/featured/cute-naruto-jtmjd4ifiqi7a48s.jpg"
+            },
+            "timestamp": "2023-07-07T10:00:00Z",
+            "likes": 130,
+            "comments": [
+                {
+                    "id": 1,
+                    "text": "Comentario 1",
+                    "author": {
+                        "id": 2,
+                        "name": "Mapache-paleador",
+                        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+                    },
+                    "timestamp": "2023-07-07T11:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "text": "Comentario 1",
+                    "author": {
+                        "id": 2,
+                        "name": "Mapache-paleador",
+                        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+                    },
+                    "timestamp": "2023-07-07T11:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "text": "Comentario 1",
+                    "author": {
+                        "id": 2,
+                        "name": "Mapache-paleador",
+                        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+                    },
+                    "timestamp": "2023-07-07T11:00:00Z"
+                },
+                {
+                    "id": 4,
+                    "text": "Comentario 1",
+                    "author": {
+                        "id": 2,
+                        "name": "Mapache-paleador",
+                        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+                    },
+                    "timestamp": "2023-07-07T11:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "content": "Segundo hilo Lorem ipsum dolor sit amet consectetur adipiscing elit, accumsan justo nullam cras natoque sapien eget ac, faucibus nisl etiam morbi porta ridiculus. Penatibus molestie euismod mauris mi",
+            "author": {
+                "id": 1,
+                "username": "homer-simpson",
+                "name": "Homero",
+                "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqY4OBs1KNkKKRSVZDTENwops-8hx9jGBf5w&usqp=CAU"
+            },
+            "timestamp": "2023-07-07T10:00:00Z",
+            "likes": 2,
+            "comments": [
+                {
+                    "id": 1,
+                    "text": "Comentario 1",
+                    "author": {
+                        "id": 2,
+                        "name": "Mapache-paleador",
+                        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7abjQPWo677ewYgroH-cpMFzZhjQDffifg&usqp=CAU"
+                    },
+                    "timestamp": "2023-07-07T11:00:00Z"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
